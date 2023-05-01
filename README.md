@@ -13,3 +13,12 @@ class ANN():
 	 - [...]
 
 
+--> Also:
+
+	1 - visualizations;
+
+	2 - model saving / loading;
+
+
+
+
